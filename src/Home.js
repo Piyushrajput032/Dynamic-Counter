@@ -14,7 +14,7 @@ const Home = () => {
             </li>
             <li>
               <Link to="/usecontextcounter" target="_Self">
-                UseCountext Counter
+                UseContext Counter
               </Link>
             </li>
             <li>
