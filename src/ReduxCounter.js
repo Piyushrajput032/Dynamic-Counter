@@ -35,7 +35,7 @@ function Child() {
     <div>
       
       <button onClick={Incrementcount}>Increase Counter</button>
-      <button disabled={counter===0} onClick={Decrementcount}>Increase Counter</button>
+      <button disabled={counter===0} onClick={Decrementcount}>Decrease Counter</button>
       
     </div>
   );
